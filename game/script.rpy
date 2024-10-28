@@ -18,8 +18,8 @@ define er = Character("Erin")
 #Julia Farmer:
 define ju = Character("Julia")
 
-#Ramsey Diaz
-define ra = Character("Ramsey")
+#Rudy Diaz
+define ra = Character("Rudy")
 
 #Rashomona Polaris:
 define rm = Character("Mona")
@@ -80,15 +80,13 @@ label scene0intro:
 
     "His gnawing headache slowly metastising as a violent migrane. "
 
-    "As Artie struggled to open his eyes, the world began to slowly fade in around him. "
+    "As Artie struggled to open his eyes, the world began to slowly faded in around him. "
 
     "As he lifted his head from the small table booth, the scene around him comes into focus."
 
-    "The place was familiar. "
-
     "The room around him was littered in various signs and pictures on the wall. "
 
-    "Three frogs hang above the Budweiser logo as sounds of the pinball fill the air. "
+    "Three frogs hung above the Budweiser logo as sounds of the pinball fill the air. "
 
     "The cab itself is shitty. Based off Daytona USA, the pinball machine had clearly seen better days. "
     
@@ -110,7 +108,9 @@ label scene0intro:
 
     "Parts were scarce and the cabs themselves weren't the revenue drivers they once were. "
 
-    "That being said, this cabinet meant one thing. "
+    "This cab was one of a kind though. Still fully operational, the splash screen howled in the distance. "
+
+    "All these things were familiar to Artie. "
 
     "He was at Stephanie's pizza, and Stephanie's meant something to Artie. "
 
@@ -152,11 +152,13 @@ label scene0intro:
 
     "She slides a red cup over to the table, gesturing at Artie to take it. "
 
-    un "Your drink was free with the meal. You may wanna fill up before we get started here. "
+    un "Your drink was free with the meal. You may wanna fill up and grab a slice before we get going. "
 
-    un "It's gonna be a pretty long talk. "
+    un "It's gonna be a minute. "
 
-    "Artie started directly into the cup itself. These cups were commonplace when he was growing up. "
+    "Artie started directly into the cup itself. The pangs in his stomach were briefly satiated by the comfort of the cup. . "
+    
+    "These cups were commonplace when he was growing up. "
 
     "He'd even bought a set for his first apartment after he left to the pacific northwest. "
 
@@ -182,15 +184,19 @@ label scene0intro:
 
     "At the counter, their favorite granny worked the tills. "
 
-    "The woman was the proprietor of this place. Artie and Erin used to strike up conversation with her any chance they got. "
+    "The Pizza Granny was the proprietor of this place. Artie and friends made a game of trying to figure out if she was the titular Stefanie. "
 
-    "The aforementioned Stefanie lived a hard life, but this place was her pride and joy. "
+    "The woman had lived a hard life, but this place was her pride and joy. "
 
     "She'd once let slip that she was in her sixties to Artie and his friends, but you wouldn't think it looking at her. "
 
+    "For better or worse, it was clear that her rebellion years weren't exactly a phase. "
+
     "She rocked a leather coat and bandana while maintaining the ovens. "
 
-    "You'd think she'd be roasting alive, but whether she was or not, the dedication to the bit was incredible. "
+    "Underneath her leather drapery, the woman's arms were covered in tattoos from the should down. "
+
+    "You'd think she'd be roasting alive in all that garb, but regardless, the dedication to the bit was incredible. "
 
     "The woman took a look up from the furance as she always had when Artie stopped in. "
 
@@ -198,7 +204,7 @@ label scene0intro:
 
     "The years of smoke, whether from the ovens or from the Marlboro Lights she smoked 3 times a day, had taken their toll. "
 
-    "Despite this, she stepped away from the "
+    "Despite this, she stepped away from the oven for a moment to greet Artie. "
 
     gr "Hey hon, it's good to see you back after all these years. "
 
@@ -236,17 +242,11 @@ label scene0continued:
 
     "Drink in hand, Artie slowly made his way back to the table. "
 
-    gr "Hey hon, take care of yourself and enjoy!  "
-
     gr "We missed you Artie. "
 
     "The words of reassurance weren't lost on him. "
 
-    "He'd been something similar in his head for years now. Toiling over what he'd have said had he known it was his last visit. "
-
-    "All elegance was lost in him, but sometimes its the simple things that carry the most meaning. "
-
-    ar "Thanks granny. I missed y'all too. "
+    ar "Thank you ma'am. I missed y'all too. "
 
     "As Artie made his way back to the table, the pit in his stomach slowly began to recede. "
 
@@ -266,21 +266,31 @@ label scene0continued:
 
     "His tone was bitter. There was a certain level of animosity in his voice as he ate through his feelings. "
 
-    "There was a small look of flashed across her eyes, but it vanished as suddenly as it came. "
+    "The venom from his eyes left almost as soon as it had arrived. "
 
-    un "Aw come on Artie, don't be that way. I'm just here to help out. "
+    "Both of them exchanged a parting look of guilt before the woman quickly recomposed herself. "
 
-    "The woman was awfully familiar with him despite the fact they'd never met. "
+    "As if nothing ever happened, a measure of playfullness returned to her voice. "
+
+    un "Sorry Artie, but I promise I'm just here to help out. "
+
+    "The woman was awfully familiar with him. "
+
+    "She was clearly teasing him, but he could feel the sincerity in her voice regardless. "
+
+    "He was sure she meant well. "
 
     "Her dark brown hair clashed against the sunlight as she took a sip of her drink. "
 
-    "The bright orange sundress she adorned herself had to be in season, but had the local town flourish." 
+    "The bright orange sundress she adorned herself was absolutely in season, but had still a small town flourish." 
+
+    "The whites of her accessories as well as her ascot only served to accentuate the level of care put into the outfit. "
 
     "She took a slice of her own and took a small bite. "
 
     "The woman carried herself with a dignified air. Her words were intentional and Artie was able to pick up on it instantly. "
 
-    "All he knew at the moment was that she was much more playful with him than he was expecting. "
+    "Despite this, the teasing continued. "
 
     un "C'mon Artie. Say the line. I know you want too. "
 
@@ -300,17 +310,15 @@ label scene0continued:
 
     "The woman smiled and took a sip before speaking. "
 
-    un "I'm not surprised you forgot about me Artie. It's been five years hasn't it. "
+    un "Oh how rude of me. "
 
-    un "I wish this little shendig was happening under better circumstances, but we'll do our best with a fresh start. "
+    un "I'm Roza. Pleasure to meet you Arthur. "
 
-    un "I'm Roza. Pleasure to meet you again Arthur. "
+    "Artie paused for a second. Much like this place, there was something about her that he couldn't quite put his finger on. "
 
-    "Artie paused for a second. Like everything else, her name felt familiar. Somehow, they'd met. "
+    "His head was still spinning. The food had dulled the migrane, but not stamped it out entirely. "
 
-    "If only he could remember. The food had dulled the migrane, but not stamped it out entirely. "
-
-    "As if in lockstep, Artie fired back. "
+    "But, as if possed by the ghost of every southern white woman, Artie fired back with the same level of sincerity he'd been met with. "
 
     ar "No, the pleasure is all mine. "
 
@@ -318,7 +326,7 @@ label scene0continued:
 
     ar "My friends all call me Artie and I'd love it if you did too. "
 
-    "There was a suddent warmth in his voice and every subsquent word put a crack in the armor he shrouded himself in. "
+    "There was warmth in his voice alongside the crack in the armor he shrouded himself in. "
 
     "Rather than fight against the absurdity of the situation, Artie choose to embrace it. "
 
@@ -326,13 +334,13 @@ label scene0continued:
 
     "Student housing just doesn't magically turn back into one of your safe havens overnight. "
 
-    "'Might as well make the best of it', he thought to himself as the gravity of the situation seemed lost on him. "
+    "'Time to make the best of it', he thought to himself as the gravity of the situation seemed lost on him. "
 
     "Despite his initial reservations, Artie was home and home was supposed to be welcoming.  "
 
     rz "Alright, Artie. Well, as your friend, I think its' time for us to get started. "
 
-    rz "I'd like to start with a question for you. There's no wrong answers here, but level with me okay?"
+    rz "I'd like to try another question with you. There's no wrong answers here, but level with me okay?"
 
     rz "Why do you think you're here Arthur?"
 
@@ -340,11 +348,15 @@ label scene0continued:
 
     "Artie had been dreading the question since she sat down. "
 
-    ar "I was hoping you'd tell me. "
+    "There was absolutely a reason he was here. "
+
+    "Dead pizza places don't magically spring back to life and Artie wasn't exactly passing out as a part of the daily routine. "
+
+    ar "I was kinda hoping you'd tell me. "
 
     "Her nose scruntched a little bit. "
 
-    "It was clear she was trying to blow off the absurdity of his response, but the follow through wasn't quite there. "
+    "Almost as if she'd expected it, a small flash of disappointment washed over her face she began to code switch back."
 
     rz "Come on Artie. You knew it wasn't going to be that easy. "
 
@@ -360,9 +372,7 @@ label scene0continued:
 
     "There it was. "
 
-    "Not one to beat around the bush, she went straight for the juglar. "
-
-    "No wriggling out of this one. "
+    "This woman was not one to beat around the bush and she went straight for the juglar. "
 
     ar "Well..."
 
