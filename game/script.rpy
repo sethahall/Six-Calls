@@ -256,11 +256,11 @@ label scene0continued:
 
     un "Feeling a little bold aren't we? "
 
-    "He looked up from the slice. "
+    "He looked up from his food as if instinctively. "
 
     un "Not even a thank you for the food or a hello. I thought your grandmother raised you better. "
 
-    "Her words cut through Artie. Marion Caffrey was a still a sore spot for him even as more and more time passed. "
+    "Her words cut through Artie as the passing of Marion Caffrey never left his mind. "
 
     ar "I'd really appreciate it if you didn't. "
 
@@ -304,12 +304,12 @@ label scene0continued:
 
     ar "Who are you? "
 
-    "A look flashed across her face, if only for an instant."
+    "A dour look flashed across her face, if only for an instant."
+
+    "As if in opposition, she continued to carry herself with dignity taking a sip before speaking. "
+
+    "The woman's smile had returned. "
     
-    "She was clearly hurt by the statement, but still pressed on gracefully. "
-
-    "The woman smiled and took a sip before speaking. "
-
     un "Oh how rude of me. "
 
     un "I'm Roza. Pleasure to meet you Arthur. "
