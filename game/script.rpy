@@ -328,15 +328,9 @@ label scene0continued:
 
     "There was warmth in his voice alongside the crack in the armor he shrouded himself in. "
 
+    "The small gesture of kindness served to remind Artie of the person he was. "
+
     "Rather than fight against the absurdity of the situation, Artie choose to embrace it. "
-
-    "If we was here in this place, it had to be for a reason right?"
-
-    "Student housing just doesn't magically turn back into one of your safe havens overnight. "
-
-    "'Time to make the best of it', he thought to himself as the gravity of the situation seemed lost on him. "
-
-    "Despite his initial reservations, Artie was home and home was supposed to be welcoming.  "
 
     rz "Alright, Artie. Well, as your friend, I think its' time for us to get started. "
 
