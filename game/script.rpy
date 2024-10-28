@@ -98,11 +98,13 @@ label scene0intro:
 
     "The small Galaga cabinet had seen better days, but the lever itself was in pristine shape. "
 
-    "The crown buttons on the cabinet were made for American cabinets. Compared to convex Japanese buttons, American buttons tended to be concave. "
+    "The buttons on the cabinet were made for American cabinets." 
+
+    "He could tell by the fact they were convex."
 
     "Said button was clearly worn with multiple scratches on the casing."  
     
-    "The switch inside was long overdue to be replaced, but arcade technicians didn't traditionally keep jobs in pizza places. "
+    "The switch inside was long overdue to be replaced, but pizza shops aren't exactly hiring for arcade technicians these days. "
 
     "Besides, there aren't many working cocktail cabinets left these days. "
 
@@ -110,13 +112,15 @@ label scene0intro:
 
     "That being said, this cabinet meant one thing. "
 
-    "He was at Stephanie's pizza and Stephanie's meant something to Artie. "
+    "He was at Stephanie's pizza, and Stephanie's meant something to Artie. "
 
     "He'd spent his early years eating there during his college years. "
 
-    "He'd spent many years eating there with his best friend Erin after dropping out of the college years. "
+    "He'd spent many years eating there with his best friend after dropping out of the college years. "
 
-    "The smell of wheat crust felt like home. A small delicacy in the sea of southern cooking. "
+    "The smell of wheat crust felt like home. Combined with a sweeter sauce, Stefanie's pizza had a distinctive taste. "
+    
+    "It was a small delicacy in the sea of biscuits and fried chicken joints. "
 
     "Once a week during the lunch hour, the five dollar buffet opened. "
 
@@ -124,9 +128,9 @@ label scene0intro:
 
     "Each pie is called when it finishes. "
 
-    "The buffet operates in rounds with the staff roating their favorites per course. " 
+    "The buffet operates in rounds with the staff roating their favorites in and out of the various courses. "
 
-    "It was that smell of wheat that woke Artie. "
+    "He'd missed this. " 
 
     "It was nostaligc. A homecoming in every sense of the word. "
 
@@ -232,9 +236,9 @@ label scene0continued:
 
     "Drink in hand, Artie slowly made his way back to the table. "
 
-    gr "Hey hon, just take care of yourself okay? "
+    gr "Hey hon, take care of yourself and enjoy!  "
 
-    gr "Enjoy the food. We missed you Artie. "
+    gr "We missed you Artie. "
 
     "The words of reassurance weren't lost on him. "
 
@@ -270,9 +274,7 @@ label scene0continued:
 
     "Her dark brown hair clashed against the sunlight as she took a sip of her drink. "
 
-    "The bright orange sundress she adorned herself in was 100% in season here." 
-    
-    "Team colors and all that."
+    "The bright orange sundress she adorned herself had to be in season, but had the local town flourish." 
 
     "She took a slice of her own and took a small bite. "
 
@@ -326,9 +328,7 @@ label scene0continued:
 
     "'Might as well make the best of it', he thought to himself as the gravity of the situation seemed lost on him. "
 
-    "Despite his initial reservations, Artie opened his heart to the world. "
-
-    "When in Rome, right? "
+    "Despite his initial reservations, Artie was home and home was supposed to be welcoming.  "
 
     rz "Alright, Artie. Well, as your friend, I think its' time for us to get started. "
 
@@ -338,11 +338,13 @@ label scene0continued:
 
     "He paused. "
 
+    "Artie had been dreading the question since she sat down. "
+
     ar "I was hoping you'd tell me. "
 
     "Her nose scruntched a little bit. "
 
-    "It was clear she was trying to blow off the absurdity of the question, but the follow through wasn't quite there. "
+    "It was clear she was trying to blow off the absurdity of his response, but the follow through wasn't quite there. "
 
     rz "Come on Artie. You knew it wasn't going to be that easy. "
 
@@ -354,7 +356,7 @@ label scene0continued:
 
     ar "I suppose this has something to do with me coming home. "
 
-    rz "You tell me Artie. Sounds like something big happened back in the midwest. "
+    rz "You tell me Artie. Sounds like something big happened up north. "
 
     "There it was. "
 
