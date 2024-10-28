@@ -41,7 +41,7 @@ label scene0poetry:
 
     "The stars above remind you of something."
     
-    "The unfathomable void above feels indifferent, yet the stars above are are listening."
+    "The unfathomable void above feels indifferent, yet the stars above are listening."
     
     "They hear you, yet they cannot speak."
     
@@ -76,13 +76,11 @@ label scene0intro:
 
     un "Time is meaningless, but you're on in fifteen Artie. "
 
-    "The words rang through Arhur's head as he slowly began to wake up. "
+    "The words rang through Arthur's head as he slowly began to wake up. "
 
     "His gnawing headache slowly metastising as a violent migrane. "
 
     "As Artie struggled to open his eyes, the world began to slowly faded in around him. "
-
-    "As he lifted his head from the small table booth, the scene around him comes into focus."
 
     "The room around him was littered in various signs and pictures on the wall. "
 
@@ -94,7 +92,7 @@ label scene0intro:
 
     "Artie was never one for pinball, but a small cocktail cabinet sat glowing in the corner held a special place in his heart. "
 
-    "The small Galaga cabinet had seen better days, but the lever itself was in pristine shape. "
+    "The small Galaga machine had seen better days, but the lever itself was in pristine shape. "
 
     "The buttons on the cabinet were made for American cabinets." 
 
@@ -114,11 +112,9 @@ label scene0intro:
 
     "He was at Stephanie's pizza, and Stephanie's meant something to Artie. "
 
-    "He'd spent his early years eating there during his college years. "
+    "It was his favorite place to eat with his best friend throughout college. "
 
-    "He'd spent many years eating there with his best friend after dropping out of the college years. "
-
-    "The smell of wheat crust felt like home. Combined with a sweeter sauce, Stefanie's pizza had a distinctive taste. "
+    "The smell of wheat crust heralded memories of a better time. Combined with a sweeter sauce, Stefanie's pizza had a distinctive taste. "
     
     "It was a small delicacy in the sea of biscuits and fried chicken joints. "
 
