@@ -29,7 +29,7 @@ define br = Character("Bartender")
 define un = Character("???")
 define nr = Character("Narrator")
 define gr = Character("Pizza Granny")
-define rz = Character("Rozilin")
+define rz = Character("Rozlin")
 
 # Appalachia in Distress
 label scene0poetry:
@@ -90,7 +90,7 @@ label scene0intro:
 
     "Three frogs hang above the Budweiser logo as sounds of the pinball fill the air. "
 
-    "The cab itself is shitty. "
+    "The cab itself is shitty. Based off Daytona USA, the pinball machine had clearly seen better days. "
     
     "It's been banged on by the local collegiates every semester since the place opened. "
 
@@ -98,13 +98,13 @@ label scene0intro:
 
     "The small Galaga cabinet had seen better days, but the lever itself was in pristine shape. "
 
-    "The crown buttons on the cabinet were made for American cabinets. Compared to convex Japanese buttons, these were concave. "
+    "The crown buttons on the cabinet were made for American cabinets. Compared to convex Japanese buttons, American buttons tended to be concave. "
 
-    "The button itself was worn from years of use."  
+    "Said button was clearly worn with multiple scratches on the casing."  
     
     "The switch inside was long overdue to be replaced, but arcade technicians didn't traditionally keep jobs in pizza places. "
 
-    "There weren't many working cocktail cabinets left these days. "
+    "Besides, there aren't many working cocktail cabinets left these days. "
 
     "Parts were scarce and the cabs themselves weren't the revenue drivers they once were. "
 
