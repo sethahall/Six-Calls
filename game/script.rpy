@@ -28,7 +28,7 @@ define rm = Character("Mona")
 define br = Character("Bartender")
 define un = Character("???")
 define nr = Character("Narrator")
-define gr = Character("Pizza Granny")
+define gr = Character("Granny")
 define rz = Character("Rozlin")
 
 # Appalachia in Distress
@@ -80,17 +80,17 @@ label scene0intro:
 
     "His gnawing headache slowly metastising as a violent migrane. "
 
-    "As Artie struggled to open his eyes, the world began to slowly faded in around him. "
+    "As Artie struggled to open his eyes, the world slowly came into picture. "
 
     "The room around him was littered in various signs and pictures on the wall. "
 
-    "Three frogs hung above the Budweiser logo as sounds of the pinball fill the air. "
+    "Three frogs hung above the Budweiser logo as sounds of the pinball filled the air. "
 
-    "The cab itself is shitty. Based off Daytona USA, the pinball machine had clearly seen better days. "
+    "The pinball machine itself is shitty. Based off Daytona USA, it had absolutely seen better days. "
     
-    "It's been banged on by the local collegiates every semester since the place opened. "
+    "It had been banged on by the local collegiates every semester since the place opened. "
 
-    "Artie was never one for pinball, but a small cocktail cabinet sat glowing in the corner held a special place in his heart. "
+    "Artie was never one for pinball, but the small cocktail cabinet glowing in the corner held a special place in his heart. "
 
     "The small Galaga machine had seen better days, but the lever itself was in pristine shape. "
 
@@ -98,23 +98,29 @@ label scene0intro:
 
     "He could tell by the fact they were convex."
 
-    "Said button was clearly worn with multiple scratches on the casing."  
+    "Said button had been clearly worn with multiple scratches on the casing."  
     
-    "The switch inside was long overdue to be replaced, but pizza shops aren't exactly hiring for arcade technicians these days. "
+    "The switch inside was long overdue to be replaced, but pizza shops didn't tend to hire arcade technicians. "
 
-    "Besides, there aren't many working cocktail cabinets left these days. "
+    "These machines were difficult to be serviced. "
 
     "Parts were scarce and the cabs themselves weren't the revenue drivers they once were. "
 
-    "This cab was one of a kind though. Still fully operational, the splash screen howled in the distance. "
+    "Not this guy though. . "
+    
+    "Still fully operational, the splash screen howled in the distance. "
 
-    "All these things were familiar to Artie. "
+    "The faded speakers still had a little bass in them, but time had clearly taken its' toll. "
 
-    "He was at Stephanie's pizza, and Stephanie's meant something to Artie. "
+    "The world had stopped turning. "
 
-    "It was his favorite place to eat with his best friend throughout college. "
+    "Time truly was meaningless here. "
 
-    "The smell of wheat crust heralded memories of a better time. Combined with a sweeter sauce, Stefanie's pizza had a distinctive taste. "
+    "He knew this because he was at Stefano's. " 
+
+    "This was home. "
+
+    "The smell of wheat crust heralded memories of a better time. Combined with a sweeter sauce, Stefano's pizza had a distinctive taste. "
     
     "It was a small delicacy in the sea of biscuits and fried chicken joints. "
 
@@ -134,11 +140,11 @@ label scene0intro:
 
     "Artie had unknowingly shown up for lunch with his best friend on the final week. "
 
-    "They'd both found out a year later. "
+    "It had always been their spot throughout their tumultuous years. "
 
-    "Life was kinda funny that way. "
+    "They'd both found out a year later in a way that served as a reminder that life could be kinda funny sometimes. "
 
-    "As the realization began to set in, a young woman approached the table with food in hand. "
+    "As the waves of realization began to slowly crash upon his shores, someone had begun to approach. "
 
     "She placed the food down in front of them before taking a seat herself. "
 
@@ -148,19 +154,17 @@ label scene0intro:
 
     "She slides a red cup over to the table, gesturing at Artie to take it. "
 
-    un "Your drink was free with the meal. You may wanna fill up and grab a slice before we get going. "
+    un "Your drink was free with the meal. You may wanna fill up before we get started. "
 
-    un "It's gonna be a minute. "
+    un "This is gonna take a few minutes. "
 
-    "Artie started directly into the cup itself. The pangs in his stomach were briefly satiated by the comfort of the cup. . "
+    "Artie started directly into the cup as the pangs in his stomach satiated themselves. "
     
-    "These cups were commonplace when he was growing up. "
+    "Like everything else, these cups reminded him of home just as much as the arcade machine in the corner. "
 
-    "He'd even bought a set for his first apartment after he left to the pacific northwest. "
+    ar "Yeah, gimme a second. I suppose I'll grab somethin'. "
 
-    "They reminded him of home. "
-
-    ar "Yeah, gimme a second. Let me grab a drink then we can talk this out. "
+    "Even his accent had come back. A slight southern drawl had creeped back in. "
 
     "Something was clearly off. "
 
@@ -176,11 +180,9 @@ label scene0intro:
 
     "There was an unhealthy amount of college football on them, but he'd figured that's just the college town life. "
 
-    "Artie missed this place. He was so unsure of himself or where he was, but it was still comforting all the same. "
+    "At the counter, his second favorite granny worked the tills. "
 
-    "At the counter, their favorite granny worked the tills. "
-
-    "The Pizza Granny was the proprietor of this place. Artie and friends made a game of trying to figure out if she was the titular Stefanie. "
+    "The Pizza Granny ran this place. Artie and friends made a game of trying to figure out her connection to the place. "
 
     "The woman had lived a hard life, but this place was her pride and joy. "
 
@@ -194,13 +196,11 @@ label scene0intro:
 
     "You'd think she'd be roasting alive in all that garb, but regardless, the dedication to the bit was incredible. "
 
-    "The woman took a look up from the furance as she always had when Artie stopped in. "
+    "The woman looked up from the furance as she always had when Artie stopped by. "
 
-    "Her warm smile hid the gravel in her voice. "
+    "Her warm smile masked the gravel in her voice. "
 
-    "The years of smoke, whether from the ovens or from the Marlboro Lights she smoked 3 times a day, had taken their toll. "
-
-    "Despite this, she stepped away from the oven for a moment to greet Artie. "
+    "Be it by over or by Marlboro light, a warm smile masked the gravel in her voice. "
 
     gr "Hey hon, it's good to see you back after all these years. "
 
@@ -236,7 +236,7 @@ label scene0triggerwarning:
 
 label scene0continued:
 
-    "Drink in hand, Artie slowly made his way back to the table. "
+    "Drink in hand, Artie made his way back to the table. "
 
     gr "We missed you Artie. "
 
@@ -244,7 +244,7 @@ label scene0continued:
 
     ar "Thank you ma'am. I missed y'all too. "
 
-    "As Artie made his way back to the table, the pit in his stomach slowly began to recede. "
+    "As Artie made his way back to the table, the pit in his stomach slowly receded. "
 
     "Imagined or not, this was a small piece of closure he desperately needed. A small smile washed over his face."
 
@@ -256,59 +256,55 @@ label scene0continued:
 
     un "Not even a thank you for the food or a hello. I thought your grandmother raised you better. "
 
-    "Her words cut through Artie as the passing of Marion Caffrey never left his mind. "
+    "Her words cut through Artie. " 
+    
+    "The passing of grandmother, Marion Caffrey, never left the man's mind. "
 
     ar "I'd really appreciate it if you didn't. "
 
-    "His tone was bitter. There was a certain level of animosity in his voice as he ate through his feelings. "
+    "The tone was bitter as he attempted to mask his contempt by eating his feelings. "
 
     "The venom from his eyes left almost as soon as it had arrived. "
 
-    "Both of them exchanged a parting look of guilt before the woman quickly recomposed herself. "
+    "His grandmother HAD raised him better than this. "
 
-    "As if nothing ever happened, a measure of playfullness returned to her voice. "
+    "Both of them exchanged a parting look of guilt before composing themselves. "
 
-    un "Sorry Artie, but I promise I'm just here to help out. "
+    "As if nothing ever happened, a measure of playfullness returned to the woman's voice. "
 
-    "The woman was awfully familiar with him. "
+    un "I'm really sorry Artie, but I promise I'm just here to help out. "
 
-    "She was clearly teasing him, but he could feel the sincerity in her voice regardless. "
+    "She'd felt oddly familiar and he'd felt a sincerity in her voice.  "
 
-    "He was sure she meant well. "
+    "Artie wanted to believe she meant well. "
 
-    "Her dark brown hair clashed against the sunlight as she took a sip of her drink. "
-
-    "The bright orange sundress she adorned herself was absolutely in season, but had still a small town flourish." 
-
-    "The whites of her accessories as well as her ascot only served to accentuate the level of care put into the outfit. "
+    "It was a very southern way of teasing and lord knows he'd seen worse throughout his lifetime. "
 
     "She took a slice of her own and took a small bite. "
 
-    "The woman carried herself with a dignified air. Her words were intentional and Artie was able to pick up on it instantly. "
+    "The teasing began to continue. "
 
-    "Despite this, the teasing continued. "
+    un "C'mon Artie. Say the line. I know you want to. "
 
-    un "C'mon Artie. Say the line. I know you want too. "
+    "He had no idea what she was talking about. "
 
-    "He was wholly unfamiliar with what she was talking about and it left him at a loss. "
+    "The situation was akward at best, disaster at worse."
+    
+    "His anxiety started to boil over. "
 
-    "As he wracked his brain trying to remember who she was, a war was going on inside Artie. "
-
-    "The situation was akward. His anxiety was starting to get the best of him. "
+    ar "Listen, I uh...."
 
     ar "I'm really sorry, but I'm not sure what you're talking about. "
 
     ar "Who are you? "
 
-    "A dour look flashed across her face, if only for an instant."
+    "The dour look flashed again."
 
-    "As if in opposition, she continued to carry herself with dignity taking a sip before speaking. "
-
-    "The woman's smile had returned. "
+    "As if in opposition, she continued to carry herself with an air of grace. "
     
     un "Oh how rude of me. "
 
-    un "I'm Roza. Pleasure to meet you Arthur. "
+    un "I'm Rozlin. Pleasure to meet you Arthur. "
 
     "Artie paused for a second. Much like this place, there was something about her that he couldn't quite put his finger on. "
 
@@ -328,9 +324,9 @@ label scene0continued:
 
     "Rather than fight against the absurdity of the situation, Artie choose to embrace it. "
 
-    rz "Alright, Artie. Well, as your friend, I think its' time for us to get started. "
+    rz "Alright, Artington. Let's try this again. "
 
-    rz "I'd like to try another question with you. There's no wrong answers here, but level with me okay?"
+    rz "No wrong answers here, but try to level with me?"
 
     rz "Why do you think you're here Arthur?"
 
@@ -340,33 +336,15 @@ label scene0continued:
 
     "There was absolutely a reason he was here. "
 
-    "Dead pizza places don't magically spring back to life and Artie wasn't exactly passing out as a part of the daily routine. "
+    "Dead pizza places don't magically spring back to life and Artie hadn't added passing out to his daily routine. "
 
-    ar "I was kinda hoping you'd tell me. "
+    "This woman was not beating around the bush as went at his jugular. "
 
-    "Her nose scruntched a little bit. "
+    "He bit into a slice in front of him in an attempt to combat the newly returned pit in his stomach. "
 
-    "Almost as if she'd expected it, a small flash of disappointment washed over her face she began to code switch back."
+    ar "This has something to do with me coming home, doesn't it? "
 
-    rz "Come on Artie. You knew it wasn't going to be that easy. "
-
-    ar "Was worth a shot I suppose. "
-
-    "He knew it was a losing proposition, but if anything it confirmed his previous intution. "
-
-    "When in Rome, right?"
-
-    ar "I suppose this has something to do with me coming home. "
-
-    rz "You tell me Artie. Sounds like something big happened up north. "
-
-    "There it was. "
-
-    "This woman was not one to beat around the bush and she went straight for the juglar. "
-
-    ar "Well..."
-
-    "He grabbed the slice in front of him and as he stared into it, the whole world drifted away. "
+    #Cut to black.
 
     jump scene1
 
@@ -380,11 +358,9 @@ label scene1:
 
     "She'd been dreading it since her mother's first worried text, but its' inevitability cast a shadow over her life. "
 
-    "Her fate was sealed the moment Arthur Caffrey came home from the Midwest.. "
+    "Her fate was sealed the moment Arthur Caffrey returned home from the Midwest.. "
 
-    "Artie had always been troubled. "
-
-    "Starting at sixteen, the boy became victim of abuse. "
+    "He'd always been troubled. "
 
     "Despite their best efforts, Ray and Elizabeth Caffrey had growing pains as parents. "
 
@@ -392,67 +368,69 @@ label scene1:
 
     "This did not happen. "
 
-    "At 19, her brother had dropped out of college. "
+    "At nineteen, he'd dropped out of college. "
 
-    "A cocktail of apathy and an aversion to challenge doomed his chance from the start. "
+    "A cocktail of apathy and an aversion to challenge doomed his chances from the start. "
 
-    "By 23, he was working at the same dead end job he'd left college for. "
+    "By twenty-three, he was working at the same dead end job he'd left college for. "
 
-    "Artie had spent his best years toiling away at that job to take care of take care of their grandmother. "
+    "Artie spent his twenties taking care of their grandmother. "
 
-    "And at 27, he buried her. "
+    "He'd bury her at twenty-seven."
 
     "The Caffreys were no stranger to cancer. Their grandmother Marion had died to liver cancer."
 
     "Their aunt Carolyn fell victim to skin cancer. "
 
-    "At somepoint, Holly had almost resigned to the idea that it would likely take her or Artie someday. "
+    "Holly was resigned to the idea that it would likely one of them too. "
 
-    "Something broke in Artie. He no longer had a home here. "
+    "Her brother had been dejected in the aftermath of her passing. "
 
-    "He left us on his 29th birthday. "
+    "It wasn't too long after that Arthur began to dream of elsewhere. "
 
     "Someone or something drew him to the Midwest, but it was that calling let him flourish."
 
-    "Her brother was the happiest she'd ever seen him.  "
+    "Arthur took to his new home instantly. "
 
-    "He was a successful park ranger, he had found family and he had his real family back home. "
+    "He'd been the happiest she'd ever seen him.  "
 
-    "Then somehow, it all come crashing down. "
+    "His job with the forrestry service gave him a sense of accomplishment and his found family gave him the a community to thrive in. "
 
-    "With every call, she heard Artie slowly die on the vine. "
+    "Both of them made sure to stay in constant contact, but something started to change in Artie. "
+
+    "His mood begun to nosedive. "
+
+    "Each call increased in severity. "
 
     "It was clear something was wrong, but Artie refused to let anyone in. "
 
-    "He'd always defect the question and try to refocus on taking care of her. "
+    "He'd always deflect by refocusing the question back on her. "
 
-    "Holly had been no stranger to adversity herself. "
+    "Holly Caffrey was no stranger to adversity as well. "
 
     "In an attempt to course correct, the Caffreys took a more free range approach with her. "
 
-    "In some ways, this made her was jealous of the structure and plans the family had for her brother. "
+    "In some ways, she wished for the same structure and plans the family had for her brother. "
 
-    "She then watched those same plans crush the light out of his eyes. "
+    "Then she watched the weight of her familie's collective failure crush him. "
 
-    "Holly took a different path. Her passion for the arts propelled her towards her dreams. "
+    "This took Holly down a different path. "
+    
+    "The lack of structure meant that her possibilities were endless. "
 
-    "At 26, she had found success with her art and had begun to entertain the idea of a public showing. "
+    "At twenty-six, she'd found success an artist and began to entertain the idea of an art show. "
 
-    "Artie had been wholly supportive of her art. That support kept them close, especially over the last few years when he left. "
+    "Artie had always been supportive of her art. That support kept them close, especially over the last few years when he left. "
 
-    "At 28, Holly had settled into a quiet life in the country. Her art was successful and she enjoyed a loving relationship with her partner. "
+    "At twenty-eight, Holly had settled into a quiet life in the country off her art. "
 
-    "Then at 30, her brother came home."
+    "Then at thirty, her brother came home."
 
-    "Artie came and went. He'd be gone before she woke up and come home too late. He blew off his friends then kept blowing off his family. "
+    "Artie came and went from the house, continuously dodging questions about why he was home. "
 
-    "That did not work for Elizabeth Caffrey. "
+    "This did not work for mother, Elizabeth Caffrey. "
 
-    "Their mother saw Artie coming home as a second chance to help the son she'd abused. "
-
-    "And so, the chickens had come home to roost. "
-
-    "Despite her best efforts to pacify her mother Elizabeth, there was no way to pacify her besides this call. "
+    "Despite her best efforts to pacify her, Holly knew there was no way to dodge this call. "
 
     "As if on cue, a roar erupted throughout the living room. "
 
@@ -468,11 +446,11 @@ label scene1:
 
     ec "I tried to reach him last night, but his phone goes straight to voicemail. "
 
-    "Artie had always been a bit distant, but it had only gotten worse since he came home from the Midwest. "
+    "Artie had always been a bit distant, but it had only gotten worse in the since he came home from the Midwest. "
 
-    "It was sudden. She'd been talking to him the night before only for him to show up unannounced two days later. "
+    "It was all so sudden. "
 
-    "In the past two weeks, her brother had retreated into himself. "
+    "One minute she was talking to him on the phone and the next he was sleeping on her couch. "
 
     "She'd known something was off, but one way or another he'd always come home one way or another. "
 
@@ -486,7 +464,7 @@ label scene1:
 
     "Like glass shattering, the wave of realization crashed over her. "
 
-    "Artie was keeping something from her. She'd be conscious of it, but the weight of the act had finally caught up to her. "
+    "Artie was keeping something from her. She was conscious of it, but the weight of the act had finally caught up to her. "
     
     hc "Mom, I don't know. He wouldn't tell me anything when I asked. "
 
@@ -494,39 +472,39 @@ label scene1:
 
     hc "Mom, I really don't know any more than you do. I'm sorry."
 
-    "The pit in her stomach was only growing the longer the conversation went on. "
+    "The pit in her stomach was only grew the longer the conversation went on. "
 
     ec "Have you spoken to any of his friends? Has Erin heard from him?"
 
     hc "Mom, I've not spoken to Erin in years. She was always Artie's friend more than mine. "
 
-    "She saw the expression sink on her mother's face at those words. "
-
-    "Elizabeth had tried her best with the two, but every failure as a parent was beginning to set in. "
+    "The expression sunk on her mother's face at those words. "
 
     hc "Mom, listen. I'll call Erin. "
 
-    hc "Artie always talked about his friends, so maybe they've heard from him. "
+    hc "She's his best friend so maybe she's seen him. "
 
     ec "Thank you honey. I love you both so much and I'm just scared. "
 
-    hc "Listen, it'll be okay mom. Artie always came back to us. I love you too mom. "
+    hc "Listen, it'll be okay mom. He always comes home. "
+
+    ec "Love you a bushel and a peck, sweetheart. "
+
+    hc "I love you too mom. "
 
     "The phone clicked off as she turned to the task at hand. "
 
-    "Artie had left her an envolope of people to contact if anything ever happened to him. "
+    "Artie'd left her an envolope of people to contact in case anything ever happened to him. "
 
-    "She prayed she would never need to use it, but the time for that had long passed. "
+    "She prayed it would never come to that, but the time for that had long since passed. "
 
-    "As the envelope tore, a smell came wafting through. "
+    "As the envelope tore, the smell of cologne came wafting through. "
 
     "Artie liked to leave a bit of cologne in his letters. It helped their mom with her homesickness in the early years of his exodus. "
 
-    "She wafted the smell in before unsealing the letter. It felt nostalgic. It was the same scent he'd worn at her wedding. "
+    "It felt nostalgic. It was the same scent he'd worn at her wedding. "
 
-    "As she flipped through the documents, the name she was looking for stuck out to her.  "
-
-    "Despite the ever growing pit in her stomach, Holly began to dial the number. "
+    "As she flipped through the documents, the name she was looking for stuck out to her as she began to dial the number. "
 
     "Each ring only amplified her anxiety. She just wanted to get this over with. "
 
