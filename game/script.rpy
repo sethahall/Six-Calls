@@ -1,4 +1,4 @@
-﻿#Six Calls
+#Six Calls
 
 #Cast In Order of Appearence:
 
@@ -500,11 +500,13 @@ label scene1:
 
     "As the envelope tore, the smell of cologne came wafting through. "
 
-    "Artie liked to leave a bit of cologne in his letters. It helped their mom with her homesickness in the early years of his exodus. "
+    "The scent belonged to Artie. He liked to let a small droplet soak into the envelope."
+    
+    "It was a small moment of comfort for both Holly and Elizabeth. "
 
-    "It felt nostalgic. It was the same scent he'd worn at her wedding. "
+    "The fragrence was nostalgic. It'd been the same scent he'd worn at her wedding. "
 
-    "As she flipped through the documents, the name she was looking for stuck out to her as she began to dial the number. "
+    "As she flipped through his letters, the name she was looking for stuck out to her as she began to dial the number. "
 
     "Each ring only amplified her anxiety. She just wanted to get this over with. "
 
@@ -528,27 +530,60 @@ label scene1:
 
     jump scene2
 
-#Scene 2: By the Way
+#Scene 2 | By the Way
 label scene2:
     #Erin Hendricks 
+
+    #Fade in on a painted shot from the view of the Sharp's Ridge radio station. Go take this picture to help Shelby.
+
+    "The radio star is alive and well in Knoxville. "
+
+    "Traditionally a quiet town, the space under the mountain provides the perfect area to broadcast. "
+
+    "Atop Sharp's Ridge, the WNFZ broadcasts to the greater Knoxville metropolitan area. "
+
+    "Starting as WATO-FM, the studio debuted as a college station focused on progressive rock. "
+
+    "In its adolescent years, WATO-FM transitioned WUUU in an attempt to provide easy listening to the sleepy valley. "
+
+    "The market for easy listening would eventually be cornered by B97.5, largely do in part of their agressive marketing campaign. "
+
+    "There's nary a resident of the scruffy city who hasn't heart the affectionate jingle for the station. "
+
+    "WUUU was a failure."
+
+    "After another rebrand, WUUU became 94.3 The X and Knoxville finally had a place for the alternative. "
+
+    "In the midst of the recession, the station became a home for the listless youth in the city. "
+
+    "The job market in Knoxville had not been kind to them. The city was a prison. "
+
+    "The city needed unskilled laborers and medical professionals. Anything else was a secondary concern at best. "
+
+    "Skilled professionals were blessed with the upward mobility to escape north of the Mason Dixon line. "
+
+    "Everyone else was given a choice between the Amazon shipping warehouse, the local call centers, or the glass factory. "
+
+    "Unskilled laborers were chained to the city. Contant attacks on unions ensured that worker protections were at an all time low. "
+
     jump scene3
 
-#Scene 3: Wayward Daughter
+#Scene 3 | 
 label scene3:
     #Julia Farmer
     jump scene 4
 
-#Scene 4: Your Ocean
+#Scene 4 | Your Ocean
 label scene4:
     #Ramsey Diaz
     jump scene5
 
-#Scene 5: All the Shine
+#Scene 5 | Because the Internet
 label scene5:
     #Rashomona Polaris
     jump scene6
 
-#Scene 6: Homecoming
+#Scene 6 | Homecoming
 label scene6:
     #Arthur Caffrey
     jump ending
