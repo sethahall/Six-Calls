@@ -5,22 +5,16 @@
 #Arthur Caffrey:
 define ar = Character("Arthur")
 define ari = Character("Arthur (Internally)")
-    
 #Holly Caffrey:
 define hc = Character("Holly")
-
 #Elizabeth Caffrey:
 define ec = Character("Elizabeth Caffrey")
-
 #Erin Hendricks:
 define er = Character("Erin")
-
 #Julia Farmer:
 define ju = Character("Julia")
-
 #Rudy Diaz
 define ra = Character("Rudy")
-
 #Rashomona Polaris:
 define rm = Character("Mona")
 
@@ -30,6 +24,7 @@ define un = Character("???")
 define nr = Character("Narrator")
 define gr = Character("Granny")
 define rz = Character("Rozlin")
+define ca = Character("Caller")
 
 # Appalachia in Distress
 label scene0poetry:
@@ -502,17 +497,55 @@ label scene1:
 
     "The scent belonged to Artie. He liked to let a small droplet soak into the envelope."
     
-    "It was a small moment of comfort for both Holly and Elizabeth. "
+    "It was a small piece of comfort for both Holly and Elizabeth. "
 
     "The fragrence was nostalgic. It'd been the same scent he'd worn at her wedding. "
 
-    "As she flipped through his letters, the name she was looking for stuck out to her as she began to dial the number. "
+    "As she flipped through his letters, the name she was looking for stuck out to her as she began to text the number. "
+
+    "Erin worked for the local radio station so calling her outright was difficult. "
+
+    hc "Hey Erin, it's Holly. "
+
+    "The response back arrived quicker than anticpated. "
+
+    er "Hey kiddo, it's been a minute. You doing okay? "
+
+    "It had been a few years since they'd last spoken. Artie was her main exposure to Holly and Artie left fot the midwest."
+
+    hc "Hey Erin, listen I know you're on break, but can you give me a call when you're off work? "
+
+    er "Absolutely. Is everything okay? "
+
+    "Her anxiety spiked for a moment. If Holly was texting her then it was probably about Artie. "
+
+    "She hadn't heard from him in over a month.  "
+
+    hc "Oh yeah, I just heard you over the radio and wanted to check-in.  "
+
+    "Erin takes a sigh of relief before firing back. "
+
+    er "Sounds good, Holly. I'll call you after work. It's gonna be pretty late. "
+
+    er "That okay with you? "    
+
+    hc "Absolutely. See you then!"
+
+    "Firing off the response, the anxiety welled up like a pit in her stomach. "
+
+    "Erin traditionally took three or four callers before her break. "
+
+    "Holly was going to have to make due in the meantime. "
+
+    "Hours pass in anticipation. "
+
+    "She began to worry that Erin had forgotten to call back, but as if on queue, her phone began to vibrate. "
 
     "Each ring only amplified her anxiety. She just wanted to get this over with. "
 
     "Eventually, a woman's voice cut through the silence between rings. "
 
-    er "Erin Hendricks, local personality. "
+    er "Hey Holly,. "
 
     "Erin was Artie's best friend. They'd known each other since grade school and Artie routinely introduced her as his family. "
 
@@ -520,11 +553,7 @@ label scene1:
 
     "The voice itself was relaxed. Erin used it to ground the people around her. "
 
-    hc "Erin, it's Holly Caffrey. "
-
-    er "Holly? God, it's good to hear from you again. I haven't seen you since the last time Artie came home. "
-
-    hc "Erin, I'm really sorry to call you out of the blue like this, but something is very wrong with Artie."
+    hc "Hey Erin. I'm really sorry to call you out of the blue like this, but something is very wrong with Artie."
 
     #Cut to Black
 
@@ -554,17 +583,241 @@ label scene2:
 
     "After another rebrand, WUUU became 94.3 The X and Knoxville finally had a place for the alternative. "
 
-    "In the midst of the recession, the station became a home for the listless youth in the city. "
+    "Erin Hendricks grew up with the X. "
 
-    "The job market in Knoxville had not been kind to them. The city was a prison. "
+    "Now she's their voice. "
 
-    "The city needed unskilled laborers and medical professionals. Anything else was a secondary concern at best. "
+    "Nested alongside the analog dials, the bright red glow of the On Air sign perforated the darkness. "
 
-    "Skilled professionals were blessed with the upward mobility to escape north of the Mason Dixon line. "
+    "This was her show and it was time to go live. "
 
-    "Everyone else was given a choice between the Amazon shipping warehouse, the local call centers, or the glass factory. "
+    #Scene shifts to a close in shot of a woman's lips in front of an on air mic. 
 
-    "Unskilled laborers were chained to the city. Contant attacks on unions ensured that worker protections were at an all time low. "
+    er "Ladies and Gentleman, that was our first song of the night. "
+
+    er "Welcome to 94.3, THE X. Knoxville's rock destination. "
+
+    er "I am Erin Hendricks, your one and only mistress of the airwaves. "
+
+    er "It's Friday night and you know what that means. "
+
+    er "That's right dear caller, tonight we are going to hear from you. "
+
+    er "I've got one more track for you and then we'll start the calls. "
+
+    "The track began to play as Erin took a sip from her coke. "
+
+    "Being the mistress of the airwaves came with its' toll on her throat sometimes, but cold soda kept her going. "
+
+    "She'd ordered pizza as well. It was going to be a good night. "
+
+    "The smell of grease and cheese wafted into the air as she took the first slice. "
+
+    "This was from the good pizza place down on Cumberland Avenue. "
+
+    "This one was special. The student workers made it worth the drive out with how generous they are. "
+
+    "Extra sauce is just the default option and the students went heavy handed on the toppings. "
+
+    "They'd even humored a request for a pizza with four orders of pepperoni for her and Artie. "
+
+    "It was one of their spots. "
+
+    "The memories are bittersweet, but the nostalgia begins to fade alongside the final verse. "
+
+    "Showtime. "
+
+    er "Welcome back to 94.3 The X. Knoxville's home for alternative and hard rock. "
+
+    er "While its' ladies night every night, tonight is for a few lucky callers. "
+
+    er "Caller number one, how are we doing tonight? "
+
+    "The caller's voice catches her off guard. The man's voice sounds like a deflating tire. "
+
+    "His words are eaten by static and the ones that come through have a nasally inflection on the caller's voice. "
+
+    ca "Big fan. 1st time caller. The boys down here at Reasonable Ron's Used Tire tune in every night."
+
+    er "Well you know we love our fans here every night. "
+
+    er "Talk to me, caller number one. This is your moment to shine. "
+
+    "The small inflection projected is an act of kindness in the face of this man's caucauphonus static.  "
+
+    "As if on cue, the man's voice cut back in. "
+
+    ca "You believe in ghosts ma'am? "
+
+    "The man's drawl was overpowering. The vocal equivalent of cigarette smoke on your clothes. "
+
+    er "Can't say I do, but I'm assuming you do? "
+
+    "The man made a small cough before continuing. The energy in his voice slowly began to fade as he struggled to muster up the courage to speak. "
+
+    ca "Well, I live out here down Tazwell Pike. Across from that big 'ol graveyard. "
+
+    ca "The other night I was sittin' outside my porch drinking a Bud until this scratching noise came out of nowhere. "
+
+    ca "I figured it was some kinda raccoon, but eventually it started hollerin' this ungodly wail. "
+
+    "Clearly it wasn't a raccoon. "
+
+    "It could have been black bear that made its' way down from the mountains. "
+
+    "The bear population had slowly begun to move inwards towards civilization after years of tourists leaving scraps out for them. "
+
+    ca "I went inside to go get my hunting rifle. Figured whatever was out there might be ornery. "
+
+    ca "So I sit back outside and watch the cemetary for movement. "
+
+    ca "Couple of teens got caught up there a few weeks back and I figured they might've come back. "
+
+    ca "So, I just called my cousin Big Jim Bob. He's real lonely after the divorce.  "
+
+    ca "Some ball and chain she turned out to be. "
+
+    "A look of disgust crossed across her face. "
+
+    "Sexism from customers wasn't exactly uncommon, but it still got a pretty harsh reaction of her. "
+    
+    er "Listen to me caller number one, if I hear you say anything else like that tonight then I'm cutting your mic. "
+
+    ca "Well, all I'm saying is his words. "
+
+    ca "As I was saying, Big Jim Bob was real upset about the divorce so we to talking. "
+
+    ca "I'm telling him things like 'You were too good for her' and he's just sitting there. "
+
+    ca "He didn't take too kindly to that one. "
+
+    ca "We start cussin' up a storm until this noise hits the side of my shed. "
+
+    er "What'd that sound like to you? I'm thinking maybe the kids came back, or maybe even a bear?"
+
+    er "You know they get real frisky this time of year. "
+
+    "As the attention turned back to him, a level of uncertainty began to fade into the man's voice, "
+
+    ca "It sounded like someone trying to bulldoze the house. "
+
+    ca "I got around outside and there wasn't no nothing there. "
+
+    ca "I'm telling you that siding was perfect. Looked as good as the day I painted it. "
+
+    ca "So I'm out here thinking one of the kids just smashed into the house or something else. "
+
+    ca "But back to Big Jim Bob. You know my hearts is just breaking for 'em. "
+
+    ca "I remember him back when he was Little Jim Bob. We go back a....."
+
+    er "Don't leave me hanging here, caller number one. What happened with the house? "
+
+    ca "Right. "
+
+    ca "So come back onto the porch and figure I'll just sit a bit. "
+
+    ca "See if I can't bust me some teenagers. "
+
+    ca "Waited an hour or so and heard nothing. "
+
+    ca "Did a quick tour 'round the house too. "
+
+    ca "Saw nothin. "
+
+    ca "Went inside and just crawled into bed. "
+
+    ca "Got woken up about an hour later by the dog barking. "
+
+    ca "My pug, Dolly, gets real anxious around noises at night and lord she was yappin'. "
+
+    ca "So I get up, I check the house. Check the porch. "
+
+    ca "Still a whole lotta nothing. "
+
+    ca "Been some weird stuff happening around town. "
+
+    "Barring the sexism, this was exactly what Erin was looking for. "
+
+    "Friday nights never seemed to dissapoint. "
+
+    er "Well caller number one, we've run out of time, but tell me one lsat thing. "
+
+    er "What would you like to hear tonight? "
+
+    ca "Y'all got any Creedance? "
+
+    er "Sorry, caller number one. We're fresh out, but is there anything else that strokes your fancy? "
+
+    ca "Lemme get some of that Megadeth. "
+
+    er "It's coming right up, caller number one.  "
+
+    er "And a big thank you for calling in to your mistress of the airwaves over here at 94.3 THE X. "
+
+    "As she popped the disk into the system, a wave of relief washed over her. "
+
+    "Time between tracks meant break time and break time meant more pizza. "
+
+    "With the automated ad reads, she was looking at a good fifteen minute break.  "
+
+    "Yet despite her excitement over the call, the caller's other comments clung to her. "
+
+    "Erin let loose a huge sigh and made her way back to her food. "
+
+    "The tension from her shoulders briefly allowed to relax. "
+
+    "As much as she loved the program, the worst of Knoxville sure loved to call. "
+
+    "The call lines at the station drew all sorts of people with all sorts of ideas. "
+
+    "As frustrating as it could be, Friday nights were only once week and tended to go well. "
+
+    "And even if they didn't, she still had four shows the rest of the week to restore the feeling. "
+
+    "Regardless, that was future Erin's problem and a hot slice of pizza begged her to live in the now. "
+
+    "As if on queue, her personal phone lit up. "
+
+    "Holly had texted her. "
+
+    "As if by instinct, she clicked over to the phone and keyed out her message. "
+
+    er "Hey kiddo, it's been a minute. You doing okay? "
+
+    "It had been a few years since they'd last spoken. Artie was her main exposure to Holly and Artie left fot the midwest."
+
+    hc "Hey Erin, listen I know you're on break, but can you give me a call when you're off work? "
+
+    er "Absolutely. Is everything okay? "
+
+    "Her anxiety spiked for a moment. If Holly was texting her then it was probably about Artie. "
+
+    "She hadn't heard from him in over a month.  "
+
+    hc "Oh yeah, I just heard you over the radio and wanted to check-in.  "
+
+    "Erin takes a sigh of relief before firing back. "
+
+    er "Sounds good, Holly. I'll call you after work. It's gonna be pretty late. "
+
+    er "That okay with you? "
+
+    hc "Absolutely. See you then!"
+
+    "The anxiety began to fall off as the precious minutes of her break came to an end. "
+
+    "She carried the half-eaten slice with her on the way back to the recording booth. "
+
+    "You see, some things are just sacred and this slice was one of them. "
+
+
+
+
+
+
+
+
 
     jump scene3
 
@@ -583,7 +836,7 @@ label scene5:
     #Rashomona Polaris
     jump scene6
 
-#Scene 6 | Homecoming
+#Scene 6 | Tales From Another Broken Home
 label scene6:
     #Arthur Caffrey
     jump ending
