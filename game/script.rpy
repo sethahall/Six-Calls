@@ -26,6 +26,11 @@ define gr = Character("Granny")
 define rz = Character("Rozlin")
 define ca = Character("Caller")
 
+#Process:
+# 1) Write the basic script of the scene. 
+# 2) Go back in and work with rewrites.
+# 3) Expand scenes with additional dialogue choices. 
+
 # Appalachia in Distress
 label scene0poetry:
 
@@ -333,11 +338,13 @@ label scene0continued:
 
     "Dead pizza places don't magically spring back to life and Artie hadn't added passing out to his daily routine. "
 
-    "This woman was not beating around the bush as went at his jugular. "
+    "This woman wasn't beating around the bush either. "
+
+    "..."
 
     "He bit into a slice in front of him in an attempt to combat the newly returned pit in his stomach. "
 
-    ar "This has something to do with me coming home, doesn't it? "
+    ar "This is about my homecoming, right? "
 
     #Cut to black.
 
@@ -353,15 +360,29 @@ label scene1:
 
     "She'd been dreading it since her mother's first worried text, but its' inevitability cast a shadow over her life. "
 
-    "Her fate was sealed the moment Arthur Caffrey returned home from the Midwest.. "
+    "Her fate was sealed the moment Arthur Caffrey returned home from the Midwest. "
 
-    "He'd always been troubled. "
+    "Something was wrong with Artie. He had his share of troubles, but this was something different. "
 
-    "Despite their best efforts, Ray and Elizabeth Caffrey had growing pains as parents. "
+    "Both Elizabeth and Holly had been excited to see him, but the person who walked through the door barely resembled Artie. "
 
-    "They had always been hard on Artie. He was supposed to validate failures by overcoming his own. "
+    "Over the first few days, he locked himself away in his room. Sneaking out at random intervals to eat, shower and change clothes. "
 
-    "This did not happen. "
+    "If he wasn't locked up in his room, he was locked in the driver's seat of his car. "
+
+    "His friends called it his security blanket and he wasn't inclined to disagree. "
+
+    "It was more of a home than the single bedroom aparatment in Chicago ever could be. "
+
+    "Artie came and went, all while continuously dodging questions about why he came home. "
+
+    "This did not work for their mother. "
+
+    "Despite their best efforts, Ray and Elizabeth Caffrey went through multiple growing pains as parents. "
+
+    "They'd always been hard on Artie. He was supposed to validate their failures by overcoming his own. "
+
+    "That did not happen. "
 
     "At nineteen, he'd dropped out of college. "
 
@@ -369,45 +390,41 @@ label scene1:
 
     "By twenty-three, he was working at the same dead end job he'd left college for. "
 
-    "Artie spent his twenties taking care of their grandmother. "
+    "The only upside at this time came from taking care of his grandmother. "
 
-    "He'd bury her at twenty-seven."
+    "This woman practically raised him. He was her pride and joy. "
 
-    "The Caffreys were no stranger to cancer. Their grandmother Marion had died to liver cancer."
+    "She was the guiding light in his life, and he'd bury her at twenty-seven. "
 
-    "Their aunt Carolyn fell victim to skin cancer. "
+    "Their grandmother Marion had died of liver cancer."
 
-    "Holly was resigned to the idea that it would likely one of them too. "
+    "Their aunt Carolyn would pass from skin cancer five years later. "
 
-    "Her brother had been dejected in the aftermath of her passing. "
+    "The Caffreys were no stranger to cancer, but Marion's passing destroyed Artie. "
 
-    "It wasn't too long after that Arthur began to dream of elsewhere. "
+    "With the guiding light in his life gone, Artie began to dream of elsewhere. "
 
     "Someone or something drew him to the Midwest, but it was that calling let him flourish."
-
-    "Arthur took to his new home instantly. "
 
     "He'd been the happiest she'd ever seen him.  "
 
     "His job with the forrestry service gave him a sense of accomplishment and his found family gave him the a community to thrive in. "
 
-    "Both of them made sure to stay in constant contact, but something started to change in Artie. "
+    "Both of them made sure to stay in constant contact, but as of late, their communications were sparse. "
 
-    "His mood begun to nosedive. "
+    "His mood nosedived from call to call. "
 
-    "Each call increased in severity. "
+    "It was clear something was wrong, but Artie wouldn't let anyone in. "
 
-    "It was clear something was wrong, but Artie refused to let anyone in. "
+    "He was constantly dodging their questions. "
 
-    "He'd always deflect by refocusing the question back on her. "
-
-    "Holly Caffrey was no stranger to adversity as well. "
+    "It was especially frustrating considering that Holly was no stranger to adversity either. "
 
     "In an attempt to course correct, the Caffreys took a more free range approach with her. "
 
     "In some ways, she wished for the same structure and plans the family had for her brother. "
 
-    "Then she watched the weight of her familie's collective failure crush him. "
+    "Then she watched the weight of their family's expectations crush him. "
 
     "This took Holly down a different path. "
     
@@ -421,11 +438,7 @@ label scene1:
 
     "Then at thirty, her brother came home."
 
-    "Artie came and went from the house, continuously dodging questions about why he was home. "
-
-    "This did not work for mother, Elizabeth Caffrey. "
-
-    "Despite her best efforts to pacify her, Holly knew there was no way to dodge this call. "
+    "Despite her best efforts to pacify her, Holly knew there was no way to dodge this call with her mother. "
 
     "As if on cue, a roar erupted throughout the living room. "
 
@@ -511,7 +524,7 @@ label scene1:
 
     er "Hey kiddo, it's been a minute. You doing okay? "
 
-    "It had been a few years since they'd last spoken. Artie was her main exposure to Holly and Artie left fot the midwest."
+    "It had been a few years since they'd last spoken. Artie was her main exposure to Holly, and he left to the midwest."
 
     hc "Hey Erin, listen I know you're on break, but can you give me a call when you're off work? "
 
@@ -539,7 +552,9 @@ label scene1:
 
     "Hours pass in anticipation. "
 
-    "She began to worry that Erin had forgotten to call back, but as if on queue, her phone began to vibrate. "
+    "As the hours passed, she began to worry that Erin had forgotten to call back."
+
+    "As if on queue, her phone began to vibrate. "
 
     "Each ring only amplified her anxiety. She just wanted to get this over with. "
 
@@ -569,21 +584,23 @@ label scene2:
 
     "Traditionally a quiet town, the space under the mountain provides the perfect area to broadcast. "
 
-    "Atop Sharp's Ridge, the WNFZ broadcasts to the greater Knoxville metropolitan area. "
+    "Atop Sharp's Ridge, the WNFZ broadcasted to the greater Knoxville metropolitan area. "
 
     "Starting as WATO-FM, the studio debuted as a college station focused on progressive rock. "
 
-    "In its adolescent years, WATO-FM transitioned WUUU in an attempt to provide easy listening to the sleepy valley. "
+    "In its adolescent years, WATO-FM transitioned WUUU as an attempt to provide easy listening to the sleepy valley. "
 
-    "The market for easy listening would eventually be cornered by B97.5, largely do in part of their agressive marketing campaign. "
+    "The market for easy listening would eventually be cornered by B97.5 due to the strength of its' aggressive marketing campaigns. "
 
-    "There's nary a resident of the scruffy city who hasn't heart the affectionate jingle for the station. "
-
-    "WUUU was a failure."
+    "WUUU was deemed a failure."
 
     "After another rebrand, WUUU became 94.3 The X and Knoxville finally had a place for the alternative. "
 
+    "94.3 belted its' hard rock and heavy metal hits to the quiet valley. "
+
     "Erin Hendricks grew up with the X. "
+
+    "The WEEK NIGHT AD-FREE SIX PACK came on just as she'd got off from her old restaurant job and kept her sane on the ride home. "
 
     "Now she's their voice. "
 
@@ -607,23 +624,21 @@ label scene2:
 
     "The track began to play as Erin took a sip from her coke. "
 
-    "Being the mistress of the airwaves came with its' toll on her throat sometimes, but cold soda kept her going. "
+    "Being the mistress of the airwaves came with its' toll on her throat sometimes, but soft fizz of her drink kept everything humming. "
 
-    "She'd ordered pizza as well. It was going to be a good night. "
+    "She'd ordered pizza as everything was queued up for an easy shift. "
 
     "The smell of grease and cheese wafted into the air as she took the first slice. "
 
-    "This was from the good pizza place down on Cumberland Avenue. "
+    "The slice was from the good pizza place down on Cumberland Avenue. "
 
-    "This one was special. The student workers made it worth the drive out with how generous they are. "
+    "That one was extra special since the student workers liked to go heavy handed on the toppings. "
 
-    "Extra sauce is just the default option and the students went heavy handed on the toppings. "
+    "They'd once even humored a request for a pizza with four orders of pepperoni for her and Artie. "
 
-    "They'd even humored a request for a pizza with four orders of pepperoni for her and Artie. "
+    "It was just one of their spots. "
 
-    "It was one of their spots. "
-
-    "The memories are bittersweet, but the nostalgia begins to fade alongside the final verse. "
+    "The memories were bittersweet, but the opportunity to remain lost in nostalgia began to fade alongside the final verse. "
 
     "Showtime. "
 
@@ -809,16 +824,157 @@ label scene2:
 
     "She carried the half-eaten slice with her on the way back to the recording booth. "
 
-    "You see, some things are just sacred and this slice was one of them. "
+    "You see, some things are just sacred and this slice was crafted in god's image. "
 
+    "With the ad break over, it was time to go back to work. "
 
+    er "Welcome back to our program ladies and gentlemen. We've got time for a few more callers. "
 
+    "As if on queue, the light on the mixer begam to flash as a new caller came on the line. "
 
+    er "Well, would ya look at that? Welcome to the program, caller number two. "
 
+    er "So tell me..."
 
+    "She left a brief pause in between lines. "
 
+    er "What do you wanna talk about tonight with your mistress of the late night. "
 
+    ca "Howdy ma'am. "
 
+    "The man's drawl came in with just enough gravel to be legible and manners that would make the priesthood blush. "
+
+    ca "Well, since you're the indlugin' type, I'd love to talk movies with you. "
+
+    "Erin perked at the suggestion. "
+
+    er "That sounds real lovely there, darlin'. "
+
+    er "Whatcha watchin'? Tell about something special, caller number two. "
+
+    "She heard the man choke up a bit at being called darlin'. "
+
+    ca "So, I watched this movie the other night. "
+
+    ca "Title escapes me at the moment, but I can remember the rest clear as day. "
+
+    ca "See there's this feller driving round the highways at night lookin' real hurt. "
+
+    ca "Somethin' about him just feels lost in the roads.  "
+
+    ca "I remember thinking to myself, 'Gosh, that sure does sound like me.', but I suppose that's neither here nor there. "
+
+    ca "There's this long scene of just drivin'. Coulda swore I saw a sign for the Smokies in there too. "
+
+    ca "Them trees were beautiful. "
+
+    ca "They laid a red and gold bouquet at the foothills of the mountain. "
+
+    ca "Now I've never been a god fearing man, but lord help me, those leaves felt like a blessing from above. "
+
+    "She could feel his enthusiasm as it crept into every last word. "
+
+    "Something had clearly stuck with the man, and she wanted to know more. "
+
+    "There were signs of life in this call. "
+
+    "So maybe, just maybe, this'll be an all-timer. "
+
+    er "Tell me more, caller number two. "
+
+    "The man clears his voice as the gravel sets in. "
+
+    ca "It's just real particular. There's something in the trees. "
+
+    ca "Can't put my finger on it, but I know it's out there. "
+
+    "The uncertainty in his voice hides a bit of fear. Depending on the sign, those trees could be anywhere within a thirty mile radius. "
+
+    "He takes another moment to clear his throat, before swiftly jumping topics."
+
+    ca "I keep coming back here. Not just the trees, but the highways too. "
+
+    ca "There's something just striking about the open roads at night. "
+
+    ca "It's like the whole world gives way to the stars. "
+
+    ca "You just don't get that view down here in the city. It's like we're kept blind to the world outside us. "
+
+    ca "I'd like to think its' a message from above, but I just don't know. "
+
+    ca "There's a whole lot I don't know.  "
+
+    ca "Only thing I know is that feller in the car never comes home. "
+
+    ca "The highways come knocking for the despondent. "
+
+    ca "It doesn't matter if you're looking for a fresh start. It doesn't matter if you're looking to get away from the world. "
+
+    ca "The highway calls us all.  "
+
+    "He takes another moment to clear his throat. "
+
+    ca "You know, I've talked about this film a whole lot. "
+
+    ca "Can't say its for everyone, but there's something there for me. "
+
+    ca "Sometimes when I'm alone, I like to think the highways are my home. "
+
+    ca "It sure feels better than the one I'm at. "
+
+    ca "What do you do when home is supposed to feel like home, but it don't feel like home anymore? "
+
+    "The man caught himself one last time. "
+
+    ca "Suppose that's all I've got tonight. "
+
+    er "Thank you caller number two. Easily my best call of the night. "
+
+    er "I'll pray you find a good home. "
+
+    "A bit of levity returns to the man's voice. You'd almost think he's blushing over the phone. "
+
+    ca "Well ma'am, that is certainly kinder than I deserve. You have a good night, ya hear? "
+
+    er "You too, caller number two. "
+
+    "With that, she hung up. "
+
+    "There was time for one more caller, but before that, it was time for another track. "
+
+    "This time was dealer's choice and she had just the thing. "
+
+    er "Ladies and Gentleman of the night, this one goes out to a very special friend of the show. "
+
+    ""
+
+    "The night was basically over. "
+
+    "The remaining tasks were automated as ad reads are sandwiched between a set playlist. "
+
+    "The rest of the pizza had gotten cold, but she packed an extra slice for herself. "
+
+    "Clearly content with her work, it was time to wind down. "
+
+    "As if on queue, the alarm on her phone reminded her of the only thing between her and a nice bath. "
+
+    "Holly had called earlier, and Erin had yet to call back. "
+
+    "Something felt off with Holly. "
+    
+    "The phone barely managed to croak out her ringtown before the crushed voice of Holly Caffrey came on the line. "
+
+    hc "Hey Erin, I'm sorry for calling you out of the blue like this. "
+
+    er "Don't worry about it. It's just good to hear from you. "
+
+    "Holly's voice began to crack. She wasn't as prepared for this as expected, but who ever is? "
+
+    "The phone rings a few times, and prior to this outing, Erin answers immediately. "
+
+    hc "Hey Erin. I'm really sorry to call you out of the blue like this, but something is very wrong with Artie."
+
+    #End Scene
     jump scene3
 
 #Scene 3 | 
@@ -836,7 +992,7 @@ label scene5:
     #Rashomona Polaris
     jump scene6
 
-#Scene 6 | Tales From Another Broken Home
+#Scene 6 | 
 label scene6:
     #Arthur Caffrey
     jump ending
