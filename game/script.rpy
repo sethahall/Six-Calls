@@ -8,7 +8,7 @@ define ari = Character("Arthur (Internally)")
 #Holly Caffrey:
 define hc = Character("Holly")
 #Elizabeth Caffrey:
-define ec = Character("Elizabeth Caffrey")
+define ec = Character("Elizabeth")
 #Erin Hendricks:
 define er = Character("Erin")
 #Julia Farmer:
@@ -25,6 +25,7 @@ define nr = Character("Narrator")
 define gr = Character("Granny")
 define rz = Character("Rozlin")
 define ca = Character("Caller")
+define mu = Character("Record")
 
 #Process:
 # 1) Write the basic script of the scene. 
@@ -200,7 +201,7 @@ label scene0intro:
 
     "Her warm smile masked the gravel in her voice. "
 
-    "Be it by over or by Marlboro light, a warm smile masked the gravel in her voice. "
+    "Be it by oven or by Marlboro light, a warm smile masked the gravel in her voice. "
 
     gr "Hey hon, it's good to see you back after all these years. "
 
@@ -680,7 +681,9 @@ label scene2:
 
     "It could have been black bear that made its' way down from the mountains. "
 
-    "The bear population had slowly begun to move inwards towards civilization after years of tourists leaving scraps out for them. "
+    "Years of tourists leaving scraps lured the bears inwards towards civilization. "
+
+    "As a result, bear sightings on the outskirts of the city became common. "
 
     ca "I went inside to go get my hunting rifle. Figured whatever was out there might be ornery. "
 
@@ -756,7 +759,7 @@ label scene2:
 
     "Friday nights never seemed to dissapoint. "
 
-    er "Well caller number one, we've run out of time, but tell me one lsat thing. "
+    er "Well caller number one, we've run out of time, but tell me one last thing. "
 
     er "What would you like to hear tonight? "
 
@@ -790,17 +793,17 @@ label scene2:
 
     "And even if they didn't, she still had four shows the rest of the week to restore the feeling. "
 
-    "Regardless, that was future Erin's problem and a hot slice of pizza begged her to live in the now. "
+    "All that was future Erin's problem as the hot slice of pizza begged her to live in the now. "
 
     "As if on queue, her personal phone lit up. "
 
     "Holly had texted her. "
 
-    "As if by instinct, she clicked over to the phone and keyed out her message. "
+    "Excitedly, she clicked over to the phone and began to key out her message. "
 
     er "Hey kiddo, it's been a minute. You doing okay? "
 
-    "It had been a few years since they'd last spoken. Artie was her main exposure to Holly and Artie left fot the midwest."
+    "It had been a few years since they'd last spoken. Artie was her main exposure to Holly and Artie had left for the midwest years ago."
 
     hc "Hey Erin, listen I know you're on break, but can you give me a call when you're off work? "
 
@@ -814,11 +817,15 @@ label scene2:
 
     "Erin takes a sigh of relief before firing back. "
 
-    er "Sounds good, Holly. I'll call you after work. It's gonna be pretty late. "
+    er "Sounds good, Holly. I'll text you after work when I'm free. "
+    
+    er "It's gonna be pretty late, but give me a call once my shift ends.  "
 
     er "That okay with you? "
 
-    hc "Absolutely. See you then!"
+    hc "Of course. Thank you Erin. "
+    
+    hc "See you then!"
 
     "The anxiety began to fall off as the precious minutes of her break came to an end. "
 
@@ -932,7 +939,7 @@ label scene2:
 
     er "I'll pray you find a good home. "
 
-    "A bit of levity returns to the man's voice. You'd almost think he's blushing over the phone. "
+    "A bit of levity returns to the man's voice. You'd almost think he'd blushed over the phone. "
 
     ca "Well ma'am, that is certainly kinder than I deserve. You have a good night, ya hear? "
 
@@ -946,7 +953,33 @@ label scene2:
 
     er "Ladies and Gentleman of the night, this one goes out to a very special friend of the show. "
 
-    ""
+    "As the track began to play, she'd found herself lost in thought. "
+
+    mu "My heart is beating from me. I'm standing all alone. "
+
+    mu "Please call me only..."
+
+    mu "...if you are coming home. "
+
+    "Last time they'd talked, Artie let her know he was planning on coming home. "
+
+    "She was excited to see him, but in the following days, it became readily apparent that something was off. "
+
+    "Ever since they were kids, Artie had a tendency to isolate himself when he was depressed. "
+
+    "Despite her protests, he'd insisted he was just taking time to work through his emotions to make sure he really felt them. "
+
+    "He was one-hundred percent full of shit. "
+
+    "Artie didn't want to ask anyone for help despite being hellbent on being the emotional rock for everyone else around him. "
+
+    "He'd cycle between depressive recluse to emotionally available stability at the drop of a hat. "
+
+    "It was extremely unhealthy, but she'd been fighting this battle for years. "
+
+    "Their twenty year friendship had its' share of ups and downs, but at the end of the day, they'd always been there for each other. "
+
+    "As she snapped back to reality, Erin noticed the clock above her. "
 
     "The night was basically over. "
 
@@ -968,23 +1001,41 @@ label scene2:
 
     er "Don't worry about it. It's just good to hear from you. "
 
-    "Holly's voice began to crack. She wasn't as prepared for this as expected, but who ever is? "
+    "The inflection in her voice sounded depressed. " 
+    
+    "The last time she'd heard Holly like this, her grandmother had just passed away. "
 
-    "The phone rings a few times, and prior to this outing, Erin answers immediately. "
+    "Something was off here. "
 
-    hc "Hey Erin. I'm really sorry to call you out of the blue like this, but something is very wrong with Artie."
+    er "Hey kiddo, before we catch up, I just wanted to check on you again. "
+
+    er "Is everything okay? "
+
+    "..."
+
+    "..."
+
+    "The pause allowed Erin's words to linger in the air far longer than they should. "
+
+    "As she started to speak, Holly's voice rang through the line. "
+
+    hc "Erin, I'm really sorry to call you out of the blue like this, but something is very wrong with Artie."
 
     #End Scene
+    jump scene2intermission
+
+#Scene 2 | Intermission
+label scene2intermission:
     jump scene3
 
-#Scene 3 | 
+#Scene 3 | Alone in Miami
 label scene3:
     #Julia Farmer
-    jump scene 4
+    jump scene4
 
 #Scene 4 | Your Ocean
 label scene4:
-    #Ramsey Diaz
+    #Rudy Diaz
     jump scene5
 
 #Scene 5 | Because the Internet
@@ -992,7 +1043,7 @@ label scene5:
     #Rashomona Polaris
     jump scene6
 
-#Scene 6 | 
+#Scene 6 | Denial Is A River
 label scene6:
     #Arthur Caffrey
     jump ending
